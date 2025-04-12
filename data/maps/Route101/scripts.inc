@@ -261,28 +261,33 @@ Route101_Movement_BirchApproachPlayer:
 	step_end
 
 Route101_Text_HelpMe:
-	.string "H-help me!$"
+	.string "Holy friggin' shit!$"
 
 Route101_Text_PleaseHelp:
-	.string "Hello! You over there!\n"
-	.string "Please! Help!\p"
-	.string "In my BAG!\n"
-	.string "There's a POKé BALL!$"
+	.string "Hello! You, the twink over there!\n"
+	.string "Please! For the love of god, help!\l"
+	.string "Look in my BAG!\l"
+	.string "There are three POKé BALLs!\p"
+	.string "For fuck's sake, GET ONE AND\n"
+	.string "SEND OUT A POKéMON BEFORE I GET\l"
+	.string "DEVOURED BY THIS BEEEEAST!$"
 
 Route101_Text_DontLeaveMe:
-	.string "Wh-Where are you going?!\n"
-	.string "Don't leave me like this!$"
+	.string "Wh-Where do you think you're going?!\n"
+	.string "Get a fucking Pokémon and save me!$"
 
 Route101_Text_YouSavedMe:
-	.string "PROF. BIRCH: Whew…\p"
+	.string "PROF. BIRCH: Christ on a bike…\p"
 	.string "I was in the tall grass studying wild\n"
-	.string "POKéMON when I was jumped.\p"
-	.string "You saved me.\n"
-	.string "Thanks a lot!\p"
-	.string "Oh?\p"
-	.string "Hi, you're {PLAYER}{KUN}!\p"
-	.string "This is not the place to chat, so come\n"
-	.string "by my POKéMON LAB later, okay?$"
+	.string "POKéMON when this ZIGZAGOON with rabies\l"
+	.string "jumped out and ripped my sleeve off.\p"
+	.string "You saved me. ;A;\n"
+	.string "I owe you, like, five beers.\p"
+	.string "Wait, who are you?\p"
+	.string "Omfg, you're {PLAYER}{KUN}!\n"
+	.string "I shat my pants and desperately need a\l"
+	.string "shower... sniffs... GAG\l"
+	.string "Come see me in my POKéMON LAB later, okay?$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
 	.string "If POKéMON get tired, take them to\n"

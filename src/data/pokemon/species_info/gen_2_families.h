@@ -7119,7 +7119,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .backPicFemale = gMonBackPic_HoundoomF,
         .backPicSizeFemale = MON_COORDS_SIZE(64, 56),
 #endif //P_GENDER_DIFFERENCES
-        SHADOW(-5, 13, SHADOW_SIZE_L)
+        SHADOW(6, 13, SHADOW_SIZE_L)
         FOOTPRINT(Houndoom)
         OVERWORLD(
             sPicTable_Houndoom,
